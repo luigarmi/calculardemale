@@ -1,0 +1,332 @@
+{
+  "male": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.5308641975308642,
+    "dtype": "int64"
+  },
+  "female": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.4691358024691358,
+    "dtype": "int64"
+  },
+  "age": {
+    "min": 0.3,
+    "max": 69.0,
+    "mean": 19.546913580246912,
+    "dtype": "float64"
+  },
+  "urban_origin": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.5185185185185185,
+    "dtype": "int64"
+  },
+  "rural_origin": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.48148148148148145,
+    "dtype": "int64"
+  },
+  "homemaker": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.13580246913580246,
+    "dtype": "int64"
+  },
+  "student": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.37037037037037035,
+    "dtype": "int64"
+  },
+  "professional": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.012345679012345678,
+    "dtype": "int64"
+  },
+  "merchant": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.06172839506172839,
+    "dtype": "int64"
+  },
+  "agriculture_livestock": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.16049382716049382,
+    "dtype": "int64"
+  },
+  "various_jobs": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.07407407407407407,
+    "dtype": "int64"
+  },
+  "unemployed": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.18518518518518517,
+    "dtype": "int64"
+  },
+  "hospitalization_days": {
+    "min": 1.0,
+    "max": 17.0,
+    "mean": 5.185185185185185,
+    "dtype": "int64"
+  },
+  "body_temperature": {
+    "min": 36.0,
+    "max": 40.0,
+    "mean": 37.42345679012346,
+    "dtype": "float64"
+  },
+  "fever": {
+    "min": 1.0,
+    "max": 1.0,
+    "mean": 1.0,
+    "dtype": "int64"
+  },
+  "headache": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.8641975308641975,
+    "dtype": "int64"
+  },
+  "dizziness": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.6419753086419753,
+    "dtype": "int64"
+  },
+  "loss_of_appetite": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.8148148148148148,
+    "dtype": "int64"
+  },
+  "weakness": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.7407407407407407,
+    "dtype": "int64"
+  },
+  "myalgias": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.7283950617283951,
+    "dtype": "int64"
+  },
+  "arthralgias": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.7160493827160493,
+    "dtype": "int64"
+  },
+  "eye_pain": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.6172839506172839,
+    "dtype": "int64"
+  },
+  "hemorrhages": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.38271604938271603,
+    "dtype": "int64"
+  },
+  "vomiting": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.48148148148148145,
+    "dtype": "int64"
+  },
+  "abdominal_pain": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.5185185185185185,
+    "dtype": "int64"
+  },
+  "chills": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.35802469135802467,
+    "dtype": "int64"
+  },
+  "hemoptysis": {
+    "min": 0.0,
+    "max": 0.0,
+    "mean": 0.0,
+    "dtype": "int64"
+  },
+  "edema": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.08641975308641975,
+    "dtype": "int64"
+  },
+  "jaundice": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.024691358024691357,
+    "dtype": "int64"
+  },
+  "bruises": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.012345679012345678,
+    "dtype": "int64"
+  },
+  "petechiae": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.08641975308641975,
+    "dtype": "int64"
+  },
+  "rash": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.2716049382716049,
+    "dtype": "int64"
+  },
+  "diarrhea": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.13580246913580246,
+    "dtype": "int64"
+  },
+  "respiratory_difficulty": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.012345679012345678,
+    "dtype": "int64"
+  },
+  "itching": {
+    "min": 0.0,
+    "max": 1.0,
+    "mean": 0.012345679012345678,
+    "dtype": "int64"
+  },
+  "hematocrit": {
+    "min": 10.0,
+    "max": 46.08,
+    "mean": 34.57234567901235,
+    "dtype": "float64"
+  },
+  "hemoglobin": {
+    "min": 3.0,
+    "max": 16.26,
+    "mean": 11.459259259259259,
+    "dtype": "float64"
+  },
+  "red_blood_cells": {
+    "min": 1520000.0,
+    "max": 5860000.0,
+    "mean": 4321049.382716049,
+    "dtype": "int64"
+  },
+  "white_blood_cells": {
+    "min": 1630.0,
+    "max": 24380.0,
+    "mean": 5563.6543209876545,
+    "dtype": "int64"
+  },
+  "neutrophils": {
+    "min": 10.0,
+    "max": 94.02,
+    "mean": 47.77407407407407,
+    "dtype": "float64"
+  },
+  "eosinophils": {
+    "min": 0.0,
+    "max": 27.1,
+    "mean": 2.86320987654321,
+    "dtype": "float64"
+  },
+  "basophils": {
+    "min": 0.0,
+    "max": 3.61,
+    "mean": 0.9701234567901235,
+    "dtype": "float64"
+  },
+  "monocytes": {
+    "min": 0.6,
+    "max": 46.78,
+    "mean": 12.903209876543212,
+    "dtype": "float64"
+  },
+  "lymphocytes": {
+    "min": 3.88,
+    "max": 82.12,
+    "mean": 35.4958024691358,
+    "dtype": "float64"
+  },
+  "platelets": {
+    "min": 11000.0,
+    "max": 500000.0,
+    "mean": 89276.75308641975,
+    "dtype": "int64"
+  },
+  "AST (SGOT)": {
+    "min": 13.0,
+    "max": 477.0,
+    "mean": 140.58024691358025,
+    "dtype": "int64"
+  },
+  "ALT (SGPT)": {
+    "min": 8.0,
+    "max": 1002.0,
+    "mean": 97.35802469135803,
+    "dtype": "int64"
+  },
+  "ALP (alkaline_phosphatase)": {
+    "min": 43.0,
+    "max": 361.0,
+    "mean": 137.4814814814815,
+    "dtype": "int64"
+  },
+  "total_bilirubin": {
+    "min": 0.17,
+    "max": 12.15,
+    "mean": 1.5762962962962963,
+    "dtype": "float64"
+  },
+  "direct_bilirubin": {
+    "min": 0.07,
+    "max": 10.26,
+    "mean": 1.0169135802469136,
+    "dtype": "float64"
+  },
+  "indirect_bilirubin": {
+    "min": 0.04,
+    "max": 3.05,
+    "mean": 0.5593827160493827,
+    "dtype": "float64"
+  },
+  "total_proteins": {
+    "min": 4.0,
+    "max": 8.58,
+    "mean": 6.391358024691359,
+    "dtype": "float64"
+  },
+  "albumin": {
+    "min": 1.41,
+    "max": 4.26,
+    "mean": 2.8481481481481485,
+    "dtype": "float64"
+  },
+  "creatinine": {
+    "min": 0.35,
+    "max": 4.65,
+    "mean": 0.8670370370370369,
+    "dtype": "float64"
+  },
+  "urea": {
+    "min": 0.99,
+    "max": 167.4,
+    "mean": 24.595308641975308,
+    "dtype": "float64"
+  }
+}
